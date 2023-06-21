@@ -1,0 +1,25 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "yasar-arafath",
+      "name": "Yasar Arafat",
+      "avatar_url": "https://avatars.githubusercontent.com/u/70479774?v=4",
+      "profile": "https://github.com/yasar-arafath",
+      "contributions": [
+        "doc",
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "HelpingHand",
+  "projectOwner": "yasar-arafath",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
